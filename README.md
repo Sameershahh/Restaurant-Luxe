@@ -1,4 +1,4 @@
-# Primal Kitchen — Luxury Restaurant Frontend
+# Primal Kitchen —  Restaurant Frontend
 
 Primal Kitchen is a cinematic, high-end restaurant website frontend inspired by premium hospitality and fine-dining brands. The project focuses on immersive visuals, structured typography, refined animations, and disciplined layout composition to reflect a luxury steakhouse aesthetic.
 
@@ -28,6 +28,7 @@ The goal of this project is to reflect premium brand positioning through layout 
 
 ##  Screenshot
 
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/de1fbb72-1eb4-4781-bee8-24f6da849f61" />
 
 
 ---
